@@ -13,4 +13,6 @@ Build the Snake Game in Python:steps
 5)Adding the Food
 6)Increasing the Length of the Snake
 7)Displaying the Score
+
+DEMO
 ![snake-game](https://user-images.githubusercontent.com/96336425/196753026-0108c97f-3846-446b-8aeb-e72c5a12f06e.gif)
