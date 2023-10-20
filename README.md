@@ -1,9 +1,9 @@
 # Snake-game
-Snake Game with python
+I made Snake Game using  python
 A fun project to create a simple Snake game implemented with pygame. If you have ever owned a Nokia phone, you would be familiar with this game.
+Implemented game mechanics, including snake movement, food generation, and collision detection.
 
-This project will eventually be used to experiment with AI learning to play this game.
-Build the Snake Game in Python:steps
+Steps:
 
 1)Installing Pygame
 2)Create the Screen
